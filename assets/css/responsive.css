@@ -35,4 +35,8 @@
     #content-about .section-img {
         display: none;
     }
+    
+    #header-img .heading-content {
+        font-size: 28px;
+    }
 }
